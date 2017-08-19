@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "513789575002",
+    "firebase_url": "https://deviot-348eb.firebaseio.com",
+    "project_id": "deviot-348eb",
+    "storage_bucket": "deviot-348eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513789575002:android:d18c5b0d2ab82d32",
+        "android_client_info": {
+          "package_name": "com.example.ithunnathorn.iottest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513789575002-aujaf8opjcva7hkq5u4p876ia6gpv9jh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbt4D-IVv3w42SLB6kcsXXyt_xTmusauE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
